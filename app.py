@@ -3,7 +3,7 @@ import whisper
 
 # Rutas relativas de las carpetas
 rawmp3_folder = "rawmp3"
-transcriptions_folder = "transcripcines"
+transcriptions_folder = "transcripciones"
 
 # Cargar el modelo de Whisper
 model = whisper.load_model("medium")
